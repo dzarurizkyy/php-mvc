@@ -13,7 +13,7 @@
           <!-- Name -->
           <?= $student["name"] ?>
           <!-- Detail -->
-          <a href="<?= BASEURL ?>/student/detail/<?= $student["id"] ?>" class="badge rounded-pill text-bg-primary text-decoration-none px-3">
+          <a href="<?= BASEURL ?>/student/detail/<?= $student["id"] ?>" class="badge rounded-pill text-bg-primary text-decoration-none px-3 py-2">
             Detail
           </a>
         </li>

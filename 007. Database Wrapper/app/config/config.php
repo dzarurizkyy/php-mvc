@@ -1,5 +1,5 @@
 <?php  
-  define("BASEURL", "http://localhost/php-mvc/09.%20Flash%20Message/public");
+  define("BASEURL", "http://localhost/php-mvc/007.%20Database%20Wrapper/public");
   define("DBHOST", "localhost");
   define("DBUSER", "root");
   define("DBPASS", "");

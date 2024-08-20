@@ -1,0 +1,1 @@
+<?php define("BASEURL", "http://localhost/php-mvc/005.%20Assets/public"); ?>
